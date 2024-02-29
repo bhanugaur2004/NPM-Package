@@ -1,0 +1,14 @@
+{
+  "name": "bhanu-encryption",
+  "version": "1.0.0",
+  "description": "It is a simple package that can help you encrypt and decrypt your messages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bhanu Gaur",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  }
+}
